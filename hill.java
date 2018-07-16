@@ -12,6 +12,8 @@ import java.util.Scanner;
  * @author  Athanasios Liagkos, me@nasos.work
  * @version 1.0
  * @since   2018-03-12
+ *
+ * @license MIT
  */
 public class Hill {
 
